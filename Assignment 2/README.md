@@ -20,7 +20,7 @@ Compared both models in terms of accuracy, number of parameters and speed of inf
 I was working with the data in triple_mnist.zip for predicting 3-digit numbers writen in the image. 
 Each image contains 3 digits similar to the following example (whose label is 039)
 
-## Task 3: Decision Trees and Ensemble Learning (15%)
+## Task 3: Decision Trees and Ensemble Learning
 
 For the loan_data.csv data, predict if the bank should give a loan or not. I needed to do the following:
 
