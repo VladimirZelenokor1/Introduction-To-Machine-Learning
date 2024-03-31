@@ -25,6 +25,9 @@ Each image contains 3 digits similar to the following example (whose label is 03
 For the loan_data.csv data, predict if the bank should give a loan or not. I needed to do the following:
 
 Fine-tune a decision tree on the data
+
 Fine-tune a random forest on the data
+
 Compare their performance
+
 Visualize your DT and one of the trees from the RF
