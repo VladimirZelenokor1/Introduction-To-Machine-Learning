@@ -1,4 +1,6 @@
-## Assignment 1, Innopolis University
+## Assignment 1
+
+Innopolis University
 Intro to ML, Fall 2022 - Bachelors
 
 In this assignment, I was required to implement and compare various regression and classification techniques. 
