@@ -1,4 +1,5 @@
-Bonus Assignment, Innopolis University
+## Bonus Assignment
+Innopolis University, 
 Introduction to Machine Learning, Fall 2022 - Bachelors
 
 In this assignment, particularly the Incremental Learning section, I discovered that traditional machine learning methods, 
