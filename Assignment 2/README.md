@@ -15,7 +15,7 @@ First, adapting  model from Task 1 to work on this task, and fit it on the new d
 
 After that, build a CNN model for image classification.
 
-Compare both models in terms of accuracy, number of parameters and speed of inference (the time the model takes to predict 50 samples).
+Compared both models in terms of accuracy, number of parameters and speed of inference (the time the model takes to predict 50 samples).
 
 I was working with the data in triple_mnist.zip for predicting 3-digit numbers writen in the image. 
 Each image contains 3 digits similar to the following example (whose label is 039)
