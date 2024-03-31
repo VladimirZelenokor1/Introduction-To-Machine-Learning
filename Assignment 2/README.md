@@ -2,7 +2,7 @@
 
 For this task, I build a fully connect feed-forward ANN model for a multi-label regression problem.
 
-I did proper data preprocessing, design the ANN model, 
+I did proper data preprocessing, designed the ANN model, 
 then fine-tune your model architecture (number of layers, number of neurons, activation function, learning rate, momentum, regularization).
 
 I was working with the data in Task 1.csv for predicting students' scores in 3 different exams: math, reading and writing. The columns include:
