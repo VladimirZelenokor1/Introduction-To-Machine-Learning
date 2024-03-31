@@ -1,4 +1,4 @@
-Task 1: ANN
+## Task 1: ANN
 
 For this task, I build a fully connect feed-forward ANN model for a multi-label regression problem.
 
@@ -7,7 +7,7 @@ then fine-tune your model architecture (number of layers, number of neurons, act
 
 I was working with the data in Task 1.csv for predicting students' scores in 3 different exams: math, reading and writing. The columns include:
 
-Task 2: CNN 
+## Task 2: CNN 
 
 For this task, I was doing image classification:
 
@@ -20,7 +20,7 @@ Compare both models in terms of accuracy, number of parameters and speed of infe
 I was working with the data in triple_mnist.zip for predicting 3-digit numbers writen in the image. 
 Each image contains 3 digits similar to the following example (whose label is 039)
 
-Task 3: Decision Trees and Ensemble Learning (15%)
+## Task 3: Decision Trees and Ensemble Learning (15%)
 
 For the loan_data.csv data, predict if the bank should give a loan or not. I needed to do the following:
 
